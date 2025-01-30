@@ -67,4 +67,5 @@ The model used in this project is a **Neural Network** built using TensorFlow/Ke
 - Features include multiple astrophysical parameters that influence exoplanet detection.
 
 ## ✅ Results
-The trained model achieves a validation accuracy of **82.81%** (replace with actual result).
+The trained model achieves a validation accuracy of **82.81%**.
+
