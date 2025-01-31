@@ -1,17 +1,17 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Thu Jan 23 09:01:46 2025
-#
-# User preference: *
-#
-# CONSTRAINT:  where (tfopwg_disp not like '%PC%'
-# CONSTRAINT:  and st_teff between 6000 and 10000
-# CONSTRAINT:  and st_rad between 1.15 and 1.8)
-#
-# COLUMN tid:            TESS Input Catalog ID
-# COLUMN st_teff:        Stellar Effective Temperature Value [K]
-# COLUMN st_rad:         Stellar Radius Value [R_Sun]
-# COLUMN tfopwg_disp:    TFOPWG Dispostion (CP | FP | KP | PC)
-#
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu,,,
+# Thu Jan 23 09:01:46 2025,,,
+#,,,
+# User preference: *,,,
+#,,,
+# CONSTRAINT:  where (tfopwg_disp not like '%PC%',,,
+# CONSTRAINT:  and st_teff between 6000 and 10000,,,
+# CONSTRAINT:  and st_rad between 1.15 and 1.8),,,
+#,,,
+# COLUMN tid:            TESS Input Catalog ID,,,
+# COLUMN st_teff:        Stellar Effective Temperature Value [K],,,
+# COLUMN st_rad:         Stellar Radius Value [R_Sun],,,
+# COLUMN tfopwg_disp:    TFOPWG Dispostion (CP | FP | KP | PC),,,
+#,,,
 tid,st_teff,st_rad,tfopwg_disp
 139118482,6179.1000000,1.1500000,FP
 80029842,6536.0000000,1.1500000,FP
