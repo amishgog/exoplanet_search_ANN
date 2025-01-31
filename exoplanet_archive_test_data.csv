@@ -1,16 +1,16 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Wed Jan 29 23:25:06 2025
-#
-# User preference: *
-#
-# CONSTRAINT:  where (st_teff between 6000 and 10000
-# CONSTRAINT:  and st_rad between 1.15 and 1.8)
-# CONSTRAINT:  order by st_teff asc
-#
-# COLUMN tid:            TESS Input Catalog ID
-# COLUMN st_teff:        Stellar Effective Temperature Value [K]
-# COLUMN st_rad:         Stellar Radius Value [R_Sun]
-#
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu,,,
+# Wed Jan 29 23:25:06 2025,,,
+#,,,
+# User preference: *,,,
+#,,,
+# CONSTRAINT:  where (st_teff between 6000 and 10000,,,
+# CONSTRAINT:  and st_rad between 1.15 and 1.8),,,
+# CONSTRAINT:  order by st_teff asc,,,
+#,,,
+# COLUMN tid:            TESS Input Catalog ID,,,
+# COLUMN st_teff:        Stellar Effective Temperature Value [K],,,
+# COLUMN st_rad:         Stellar Radius Value [R_Sun],,,
+#,,,
 loc_rowid,tid,st_teff,st_rad
 4123,233529335,6000.0000000,1.2886699
 3565,206466531,6000.2000000,1.3300000
