@@ -52,11 +52,12 @@ This project was built using the following package versions:
   - `Star_ID` (if applicable)
   - `Prediction` (1 = Exoplanet, 0 = Not an Exoplanet)
 
-## 📊 Model Overview
+## Model Overview
 The model used in this project is a deep learning based model built using TensorFlow/Keras. It includes:
 - Fully connected layers with ReLU activations
 - Binary classification with Sigmoid activation
 - Optimized using AdamW optimizer
 - Balanced dataset using SMOTE
+  
 The model has been trained on F, G and K-type star data.
 
